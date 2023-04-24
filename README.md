@@ -1,4 +1,4 @@
-# Object-Identifier-
+# Object-Classifier-
 link: https://colab.research.google.com/drive/1BRdo-wM4sX1hqP0SlYCCrWdYUXPax8EW?usp=sharing#scrollTo=v7fNBNKCTzsG
 Go to the above url and you will find code for Object Identifier that identifies the object present in given image
 If you wanna get image from url you can paste the url under FILE_NAME and url in 4th and 7th cells respectively;
